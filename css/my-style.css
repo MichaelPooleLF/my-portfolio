@@ -1,0 +1,4 @@
+#templatemo_about  .container, #templatemo_about .square_coner {
+  display: flex;
+  justify-content: center;
+}
