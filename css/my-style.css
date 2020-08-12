@@ -2,3 +2,9 @@
   display: flex;
   justify-content: center;
 }
+
+.skills-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
