@@ -169,7 +169,10 @@ img {
 
 }
 
-.templatemo_paracenter { text-align: center; }
+.templatemo_paracenter {
+	text-align: center;
+	margin-bottom: 2rem;
+}
 
 .templatemo_about_box {
 	background: #ffffff;
