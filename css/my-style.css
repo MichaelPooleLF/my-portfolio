@@ -32,3 +32,30 @@
   display: flex;
   justify-content: center;
 }
+
+#templatemo_home .row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+#templatemo_home #logo-box {
+  position: static;
+}
+
+nav.mainMenu {
+  display: flex;
+  align-items: center;
+}
+
+div.logo h1 {
+  margin: 0;
+}
+
+@media only screen and (max-width: 670px) {
+  div.logo h1 {
+  margin-top: 2rem;
+}
+}
