@@ -8,3 +8,27 @@
   justify-content: center;
   flex-wrap: wrap;
 }
+
+.templatemo_blog a {
+  color: white;
+}
+
+.templatemo_col12, .templatemo_blog img {
+  height: 180px;
+  width: 255px;
+  padding: 0;
+}
+
+.blog-container {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.reasonbg-text-bloc {
+  text-align: left;
+  display: flex;
+  justify-content: center;
+}
