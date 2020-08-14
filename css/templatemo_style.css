@@ -35,7 +35,7 @@ h1, h2, h3, h4, h5, h6 {
 
 h1	{	font-size: 1.5em;
 	color: #ffffff;
-	background: #343537;
+	background: #2496C8;
 	padding: 10px 8px;
 	float: left;
 	}
@@ -192,7 +192,7 @@ img {
 	vertical-align: middle;
 	text-align: center;
 	padding: 20px 30px;
-	background: #72b842;
+	background: #2496C8;
 	border-radius: 5px;
 	font-size: 32px;
 	color: #ffffff;
