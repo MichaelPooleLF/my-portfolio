@@ -70,8 +70,6 @@ div.logo h1 {
   div.logo h1 {
     margin-top: 2rem;
   }
-
-
 }
 
 .contact-container .row, .contact-info-container {
@@ -100,4 +98,13 @@ div.logo h1 {
 
 .phone-number > span:last-child {
   width: 100px;
+}
+
+.templatemo_blogdescription p {
+  padding: 0;
+  text-align: left;
+}
+
+.templatemo_blogdescription a {
+  color: #00ACE9;
 }
