@@ -118,3 +118,15 @@ div.logo h1 {
 .click-img, .blog-container h3 {
   font-style: italic;
 }
+
+.obj-cover {
+  object-fit: cover;
+}
+
+.obj-left {
+  object-position: left;
+}
+
+.obj-top {
+  object-position: top;
+}
