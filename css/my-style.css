@@ -123,6 +123,10 @@ div.logo h1 {
   object-fit: cover;
 }
 
+.obj-contain {
+  object-fit: contain;
+}
+
 .obj-left {
   object-position: left;
 }
