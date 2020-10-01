@@ -134,3 +134,10 @@ div.logo h1 {
 .obj-top {
   object-position: top;
 }
+
+.my-row {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
